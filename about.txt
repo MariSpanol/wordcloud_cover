@@ -1,0 +1,8 @@
+"Utilizo matemática e estatística aliadas a modelagem de dados e aprendizado de máquina para criação de insights e auxílio na tomada de decisão principalmente em empresas no segmento da saúde.
+
+Análise e visualização de dados com as principais ferramentas de BI: PYTHON, R, STATA, SQL, Power BI, Excel e Tableau.
+No momento aprendendo ferramentas de big data (Hadoop, Spark e programação Scala); Além de conhecimentos de Machine Learning e Deep Learning.
+
+E principalmente muita garra para lidar e aprender com novos desafios!
+
+keywords: Data Science, Epidemiology, Big data, data wrangling, statistics, bio estatistics, Analytics, bioinformática, Health, Pesquisa, Researcher, Data lake, business inteligence"
