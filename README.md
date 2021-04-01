@@ -16,6 +16,6 @@ O que temos de principal neste repositorio é:
 2 -  Wordcloud
 Onde pegamos o texto gerado do scrapping e criamos nossa nuvem de palavras lindona, ensino também a criar a nuvem de palavras em uma mascára (vulgo, em cima de um desenho)
 
-Espero que cês curtam o resultado e seja tão útil e fofo de fazer como foi pra eu! *Énóis
+Espero que cês curtam o resultado e seja tão útil e fofo de fazer como foi pra eu! *Énóis*
 
 
