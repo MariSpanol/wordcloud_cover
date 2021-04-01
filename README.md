@@ -5,8 +5,10 @@ Esses dias eu estava viajando através dessa rede social magnifica e percebi alg
 
 Obviamente, não é um problema ou algo a ser penalizado ao considerar aquele cara como um possível candidato  mas sim é uma questão que pode se tornar um mini projetinho ou mini estudinho rapidinho e bem divertido que vai gerar um resultado bem legal, único e multifuncionalidade que de quebra vai gerar alguns insights sobre o seu perfil.
 
-Então Mari, o que vamos fazer afinal e como será personalizada?
-Basicamente vamos unir três técnicas bem dahoras: **scrapping + criação de wordcloud** 
+Então Mari, o que vamos fazer afinal e como/por quê será personalizada?
+
+Basicamente será personalizada pois vamos usar nossas próprias infos do LinkedIn, ou seja, uma capa para nós falando de.... Nós! 
+E para isso vamos unir duas técnicas bem dahora: **scrapping + criação de wordcloud** 
 
 Let's go!
 O que temos de principal neste repositorio é:
