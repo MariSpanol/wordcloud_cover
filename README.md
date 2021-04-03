@@ -12,10 +12,13 @@ E para isso vamos unir duas técnicas bem dahora: **scrapping + criação de wor
 
 Let's go!
 O que temos de principal neste repositorio é:
+
 1 - Scrapping LinkedIn
+
 É o script que eu uso para conectar e puxar os dados do LinkedIn usando apenas dois pacotes: o Selenium (tem outro projeto nesse repo que detalha mais ele) e o Pandas
 
 2 -  Wordcloud
+
 Onde pegamos o texto gerado do scrapping e criamos nossa nuvem de palavras lindona, ensino também a criar a nuvem de palavras em uma mascára (vulgo, em cima de um desenho)
 
 Espero que cês curtam o resultado e seja tão útil e fofo de fazer como foi pra eu! *Énóis*
